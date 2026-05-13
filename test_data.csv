@@ -1,0 +1,8 @@
+CustomerID,First Name,Last_Name,Email,Age,Salary,JoinDate,Status
+1,John,Smith,john@email.com,28,50000,2021-01-15,Active
+2,Jane,Doe,jane@email.com,abc,75000,2021-03-22,active
+3,Bob,Jones,,35,999999,2022-07-01,ACTIVE
+4,John,Smith,john@email.com,28,50000,2021-01-15,Active
+5,Alice,Brown,alice@,42,-5000,not-a-date,Inactive
+6,,Wilson,bob@email.com,31,62000,2023-02-14,Active
+7,Charlie,,charlie@email.com,29,,2023-05-30,
